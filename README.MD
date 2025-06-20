@@ -87,3 +87,5 @@ https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuit
 consider installing a permament helper you get you useful resources. like reminding you how to use you  favorite vim commands. or to intall the basic set up and have access later other nice setups later. like will you be working with a I2C? pam put everything together.
 
 -[this could be a nice library to use](https://github.com/adafruit/Adafruit_Python_Shell/blob/master/adafruit_shell.py)
+
+but really what I should really do is rewrite this with AI. and make it much more automatic and modern
